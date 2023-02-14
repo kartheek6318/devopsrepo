@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Hello World!"
+echo "$(date +%Y%m%d): Hello World!"
 
 exit 0
