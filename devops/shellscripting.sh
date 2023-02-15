@@ -26,4 +26,7 @@ else
 	echo "$(date +%Y%m%d): Hello World!"
 fi
 
+# Implementing test feature
+echo "OLV USB update"
+
 exit 0
